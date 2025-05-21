@@ -1,0 +1,1 @@
+The provided web content is a GitHub page that displays a "File not found" error. Specifically, it indicates that the `README.md` file is not present in the `master` branch of the `short.dev` repository. Therefore, the content does not contain the requested information about the `README.md` file's content.

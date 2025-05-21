@@ -1,0 +1,1 @@
+The web content indicates a "404 - page not found" error for the `CONTRIBUTING.md` file within the `short.dev` repository on GitHub. The content explicitly states that the `master` branch of `short.dev` does not contain the requested file. Therefore, I am unable to extract the content of the `CONTRIBUTING.md` file.
